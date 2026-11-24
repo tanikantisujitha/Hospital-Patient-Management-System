@@ -1,3 +1,8 @@
+# Project Team Members:
+1.Tanikanti Sujitha
+2.Yaparla Teja Sree
+3.Shreya.T
+
 # CarePoint — Hospital Patient Management System
 
 A responsive HTML/CSS/JavaScript hospital administration interface inspired by the supplied screenshots. It includes a dashboard, patient admission, records/search/filter/edit/delete, care rounds, a priority-ordered treatment queue implemented as a singly linked list in JavaScript for demonstration, ICU transfer, discharge restrictions, supporting hospital modules, and ten separate flowcharts.
